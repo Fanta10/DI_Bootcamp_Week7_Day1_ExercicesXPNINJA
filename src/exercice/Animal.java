@@ -1,4 +1,4 @@
-package daily_exercice1;
+package exercice;
 
 public class Animal {
 
